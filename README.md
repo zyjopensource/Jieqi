@@ -1,8 +1,8 @@
 # 揭棋 AI Jieqi AI （UI 修正版）
 
-本项目为 [miaosiSari](https://github.com/miaosiSari/Jieqi) 的开源代码的 UI 修正版。**未改动走子逻辑**，主要对 UI 进行了修正与增强。
+本项目为 [miaosiSari](https://github.com/miaosiSari/Jieqi) 的开源代码的 UI 修正版。未改动走子逻辑，主要对 UI 进行了修正与增强。
 
-![界面示例]([docs/screenshot.png](https://github.com/user-attachments/assets/9bf8c21b-9c7d-411b-85d3-27aebfa1989f))
+![界面示例]([docs/screenshot.png](https://github.com/zyjopensource/Jieqi/blob/main/jieqi_20260217155735.png))
 *图中为用此软件下出的一个很有意思的局面，双方四车相对，红方将走子，问如何走最好？*
 
 ## 使用说明
