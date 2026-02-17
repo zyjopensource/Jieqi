@@ -1,9 +1,9 @@
 ![揭棋](https://img.shields.io/badge/Jieqi-python3-brightgreen)
 ![揭棋](https://img.shields.io/badge/Jieqi-pypy3-blue)
 
-# 揭棋
+# 揭棋AI Jieqi AI （UI修正版）
 
-这是一个揭棋AI项目，提供命令行对战UI和基于概率/pvs算法的AI。您可以使用python3和pypy3运行。本项目不支持python2/pypy2。
+![jieqi_20260217155735](https://github.com/user-attachments/assets/9bf8c21b-9c7d-411b-85d3-27aebfa1989f)
 
 本项目基于bupticybee大佬的项目elephantfish二次开发: https://github.com/bupticybee/elephantfish, 并严格遵守bupticybee设置的GPL License V3: https://github.com/bupticybee/elephantfish/blob/master/LICENSE.md 。我的项目和elephantfish
 都基于sunfish开发: https://github.com/thomasahle/sunfish 。
